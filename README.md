@@ -26,12 +26,12 @@ airalert_app/
 |   +-- modeling.py
 |   +-- visuals.py
 +-- notebooks/
-    +-- Q-Phase.ipynb
-    +-- U-Phase.ipynb
-    +-- A-Phase.ipynb
-    +-- C-Phase.ipynb
+    +-- Q-Phase.md
+    +-- U-Phase.md
+    +-- A-Phase.md
+    +-- C-Phase.md
     +-- K-Phase.md
-    +-- Colab-Test.ipynb
+    +-- QUA3CK-Overview.md
 ```
 
 ## Streamlit Cloud
@@ -85,8 +85,8 @@ See `DATA_SOURCES.md` for the full explanation.
 The app is ready to be presented as a complete QUA3CK-based Streamlit ML application. For the final presentation, use:
 
 - `PRESENTATION_GUIDE.md` for the speaking structure.
-- `notebooks/Q-Phase.ipynb` through `notebooks/C-Phase.ipynb` for the notebook documentation.
-- `notebooks/K-Phase.md` for the knowledge-transfer/deployment explanation.
+- `notebooks/Q-Phase.md` through `notebooks/K-Phase.md` for stable GitHub-readable QUA3CK documentation.
+- `notebooks/QUA3CK-Overview.md` for a short phase index.
 - the in-app `QUA3CK Process` page for a live walkthrough.
 
 ## Disclaimer
